@@ -8,7 +8,7 @@ pip install mindset
 
 To use:
 
-```
+```python
 >>> from mindset import mindshift
 
 >>> mindshift("why is this happening to me?")
